@@ -6,10 +6,16 @@
 - https://www.horizonsunlimited.com/hubb/north-africa/new-border-algeria-tindouf-mauritania-95755-3#post605520
 - https://www.youtube.com/@LesMariolesTrotters/videos
 
-## Road options
+## Tasks:
+
+- [ ] Reunir las rutas posibles
+- [ ] Armar una combinacion de esas rutas posibles (2 opciones max)
+- [ ] Hacer un prespuesto estimativo
+
+## Viable Roads
 
 
-### Places:
+## Viable Towns:
 
 #### Argelia
 
